@@ -1,6 +1,6 @@
 # Antenati Image Grabber Bookmarklet
 
-This bookmarklet allows you to easily grab the full high-resolution images from the Antenati website by extracting the URL of the currently viewed image and opening it in a new tab for viewing.
+This bookmarklet allows you to easily grab the full high-resolution image URLs from the Antenati website by extracting the URL of the currently viewed image and opening it in a new tab for viewing.
 
 ## How It Works
 
