@@ -22,9 +22,10 @@ You can install the bookmarklet in one of two ways:
      javascript:(function() {  var currentUrl = window.location.href;  var lastSegment = currentUrl.match(/\/([^\/]+)\/?$/)[1];  var targetUrl = 'https://iiif-antenati.san.beniculturali.it/iiif/2/' + lastSegment + '/full/full/0/default.jpg';  window.open(targetUrl, '_blank');})();
      ```
      Paste it into the URL or Location field of the bookmark.
-Save:
-Save the bookmark. It’s now ready to use!
-Note: Manually created bookmarks won’t include the icon unless you add it separately (not necessary for functionality).
+4. **Save**:
+   - Save the bookmark. It’s now ready to use!
+
+Note: Manually created bookmarks won’t include an icon unless you add it separately (not necessary for functionality).
 
 ### Option 2: Import the HTML File
 1. **Enable the Bookmarks Bar**:
