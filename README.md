@@ -30,12 +30,13 @@ Note: Manually created bookmarks won’t include the icon unless you add it sepa
 1. **Enable the Bookmarks Bar**:
    - Ensure your browser’s bookmarks / favorites bar is visible (e.g., in Chrome: `Ctrl+Shift+B` or `View > Show Bookmarks Bar`).
 2. **Download the File**:
-   - Download bookmarks.html from this repository (see the Code section).
+   - Download the bookmark.html from this repository (see the Code section).
 3. **Import into Your Browser**:
    - Open your browser’s bookmark manager (e.g., Chrome: Ctrl+Shift+O or Bookmarks > Manage Bookmarks).
-   - Select “Import” or “Import Bookmarks” and choose the downloaded bookmarks.html file.
+   - Select “Import” or “Import Bookmarks” and choose to import from a bookmarks or favorites HTML file.
+   - Select the downloaded bookmark.html file.
    - Check the Bookmarks Bar:
-   - The “Antenati Grabber” bookmark should appear in your bookmarks bar.
+   - The “Antenati Grabber” bookmark should now appear in your bookmarks bar.
 
 ## Usage
 1. **Navigate to an Image**:
