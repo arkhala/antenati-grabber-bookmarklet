@@ -31,7 +31,7 @@ Note: Manually created bookmarks won’t include an icon unless you add it separ
 1. **Enable the Bookmarks Bar**:
    - Ensure your browser’s bookmarks / favorites bar is visible (e.g., in Chrome: `Ctrl+Shift+B` or `View > Show Bookmarks Bar`).
 2. **Download the File**:
-   - Download the bookmark.html from this repository (see the Code section).
+   - Download the [***bookmark.html***](https://github.com/arkhala/antenati-grabber-bookmarklet/raw/refs/heads/main/bookmark.html) from this repository (see the Code section).
 3. **Import into Your Browser**:
    - Open your browser’s bookmark manager (e.g., Chrome: Ctrl+Shift+O or Bookmarks > Manage Bookmarks).
    - Select “Import” or “Import Bookmarks” and choose to import from a bookmarks or favorites HTML file.
