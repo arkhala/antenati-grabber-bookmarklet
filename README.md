@@ -45,5 +45,12 @@ Note: Manually created bookmarks won’t include an icon unless you add it separ
 2. **Click the Bookmarklet**:
    - Click “Antenati Grabber” in your bookmarks bar. The full high-resolution image will open in a new tab for you to view. 
 
-## Notes
+## Compatibility
+- The bookmarklet does not work on mobile browsers.
+- It has been tested and works on Chromium-based browsers, including:
+  - Microsoft Edge
+  - Google Chrome
+
+## Additional Notes
 - **Website Dependency**: This bookmarklet relies on the current URL structure of the Antenati website. If the site changes its format, the bookmarklet may stop working.
+ 
