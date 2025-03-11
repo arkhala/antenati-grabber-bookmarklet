@@ -36,7 +36,7 @@ Note: Manually created bookmarks won’t include an icon unless you add it separ
    - Open your browser’s bookmark manager (e.g., Chrome: Ctrl+Shift+O or Bookmarks > Manage Bookmarks).
    - Select “Import” or “Import Bookmarks” and choose to import from a bookmarks or favorites HTML file.
    - Select the downloaded bookmark.html file.
-   - Check the Bookmarks Bar:
+4. **Check the Bookmarks Bar**:
    - The “Antenati Grabber” bookmark should now appear in your bookmarks bar.
 
 ## Usage
