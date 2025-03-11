@@ -40,7 +40,7 @@ Note: Manually created bookmarks won’t include the icon unless you add it sepa
 
 ## Usage
 1. **Navigate to an Image**:
-   - Go to the Antenati website and view the page containing the image you want to download.
+   - Go to the Antenati website and view the page containing the image you want to view.
 2. **Click the Bookmarklet**:
    - Click “Antenati Grabber” in your bookmarks bar. The full high-resolution image will open in a new tab for you to view. 
 
