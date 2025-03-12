@@ -21,7 +21,7 @@ You can install the bookmarklet in one of two ways:
      ```javascript
      javascript:(function() {  var currentUrl = window.location.href;  var lastSegment = currentUrl.match(/\/([^\/]+)\/?$/)[1];  var targetUrl = 'https://iiif-antenati.san.beniculturali.it/iiif/2/' + lastSegment + '/full/full/0/default.jpg';  window.open(targetUrl, '_blank');})();
      ```
-     Paste it into the URL or Location field of the bookmark.
+   - Paste the code into the URL or Location field of the bookmark.
 4. **Save**:
    - Save the bookmark. It’s now ready to use!
 
